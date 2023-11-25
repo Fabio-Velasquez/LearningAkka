@@ -1,2 +1,0 @@
-# LearningAkka
-LEARNINGAKKAJG
